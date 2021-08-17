@@ -46,6 +46,14 @@ summary {
   display: block;
 }
 
+.photoProfile {
+  width: 128px; 
+  height: 128px;
+  border-radius:50%;
+  border: solid 3px white;
+  overflow:hidden; /* Evitar que el contenido se visualice fuera del borde*/
+  
+}
 /**
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
