@@ -149,6 +149,15 @@ button:hover,
   filter: brightness(90%) }
 
 
+/* Email */
+.button.button-email {
+  color: #FFFFFF;
+  background-color: #8a90c7 }
+.button.button-email:hover,
+.button.button-email:focus {
+  filter: brightness(90%) }
+
+
 
 /* Resume */
 .button.button-resume {
