@@ -168,6 +168,15 @@ button:hover,
   filter: brightness(90%) }
 
 
+/* Location */
+.button.button-location {
+  color: #FFFFFF;
+  background-color: #34a853 }
+.button.button-resume:hover,
+.button.button-resume:focus {
+  filter: brightness(90%) }
+
+
 
 /* Telegram */
 .button.button-telegram {
