@@ -187,6 +187,14 @@ button:hover,
   filter: brightness(90%) }
 
 
+/* Twitter */
+.button.button-twitter {
+  color: #FFFFFF;
+  background-color: #1da1f2 }
+.button.button-telegram:hover,
+.button.button-telegram:focus {
+  filter: brightness(90%) }
+
 
   /* Blog */
 .button.button-blog {
