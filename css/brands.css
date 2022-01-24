@@ -164,8 +164,8 @@ button:hover,
 .button.button-resume {
   color: #FFFFFF;
   background-color: #0088cc }
-.button.button-resume:hover,
-.button.button-resume:focus {
+.button.button-telegram:hover,
+.button.button-telegram:focus {
   filter: brightness(90%) }
 
 
