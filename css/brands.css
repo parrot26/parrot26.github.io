@@ -191,8 +191,8 @@ button:hover,
 .button.button-twitter {
   color: #FFFFFF;
   background-color: #1da1f2 }
-.button.button-telegram:hover,
-.button.button-telegram:focus {
+.button.button-twitter:hover,
+.button.button-twitter:focus {
   filter: brightness(90%) }
 
 
