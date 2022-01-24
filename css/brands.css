@@ -143,7 +143,7 @@ button:hover,
 /* LinkedIn */
 .button.button-linkedin {
   color: #FFFFFF;
-  background-color: #2867B2 }
+  background-color: #007bb5 }
 .button.button-linkedin:hover,
 .button.button-linkedin:focus {
   filter: brightness(90%) }
@@ -157,6 +157,18 @@ button:hover,
 .button.button-resume:hover,
 .button.button-resume:focus {
   filter: brightness(90%) }
+
+
+
+/* Telegram */
+.button.button-resume {
+  color: #FFFFFF;
+  background-color: #0088cc }
+.button.button-resume:hover,
+.button.button-resume:focus {
+  filter: brightness(90%) }
+
+
 
   /* Blog */
 .button.button-blog {
