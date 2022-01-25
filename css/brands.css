@@ -172,8 +172,8 @@ button:hover,
 .button.button-location {
   color: #FFFFFF;
   background-color: #34a853 }
-.button.button-resume:hover,
-.button.button-resume:focus {
+.button.button-location:hover,
+.button.button-location:focus {
   filter: brightness(90%) }
 
 
