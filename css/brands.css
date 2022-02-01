@@ -196,6 +196,15 @@ button:hover,
   filter: brightness(90%) }
 
 
+/* Ko-Fi */
+.button.button-kofi {
+  color: #FFFFFF;
+  background-color: #ff5500 }
+.button.button-kofi:hover,
+.button.button-kofi:focus {
+  filter: brightness(90%) }
+
+
   /* Blog */
 .button.button-blog {
   color: #FFFFFF;
