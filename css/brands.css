@@ -171,7 +171,7 @@ button:hover,
 /* Location */
 .button.button-location {
   color: #FFFFFF;
-  background-color: #fbbc04 }
+  background-color: #3dc45c }
 .button.button-location:hover,
 .button.button-location:focus {
   filter: brightness(90%) }
@@ -202,6 +202,15 @@ button:hover,
   background-color: #ff5c5e }
 .button.button-kofi:hover,
 .button.button-kofi:focus {
+  filter: brightness(90%) }
+
+
+/* Cafecito */
+.button.button-cafecito {
+  color: #FFFFFF;
+  background-color: #015087 }
+.button.button-cafecito:hover,
+.button.button-cafecito:focus {
   filter: brightness(90%) }
 
 
